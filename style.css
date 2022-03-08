@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.person {
+  height: 100px;
+  border: 1px solid #dddddd;
+  border-radius: 20px;
+}
+
+.boy {
+  background-color: rgb(129, 129, 226);
+}
+
+.girl {
+  background-color: pink;
+}
+
+.none {
+  background-color: gray;
+}
